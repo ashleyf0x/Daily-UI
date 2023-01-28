@@ -1,0 +1,42 @@
+.header {
+  color: rgb(189, 185, 185);
+}
+/*images*/
+
+#logo {
+  width: 40%;
+}
+#cheers {
+  width: 30%;
+}
+
+body {
+  font-family: "Noto Serif Display", serif;
+  text-align: center;
+  background-color: rgb(121, 9, 54);
+}
+
+h1 {
+  font-size: 60px;
+}
+h2 {
+  font-size: 40px;
+}
+p {
+  font-size: 18px;
+  color: rgb(189, 185, 185);
+  line-height: 1.5em;
+}
+.signupsheet {
+  border: solid;
+  border-width: 2px;
+  border-color: white;
+  text-align: left;
+  line-height: 3em;
+  margin: 150px;
+  font-size: 18px;
+  color: rgba(189, 185, 185);
+  padding-left: 20%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}

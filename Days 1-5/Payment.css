@@ -1,0 +1,25 @@
+body {
+  font-family: "Unbounded", cursive;
+  text-align: center;
+  background-color: rgb(146, 214, 93);
+}
+.header {
+  margin-top: 30%;
+}
+.paymentinfo {
+  margin-top: 20%;
+  line-height: 3em;
+}
+.button {
+  margin-top: 30px;
+  margin-bottom: 30%;
+  border: 2px solid green;
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 14px 40px;
+}
+.button:hover {
+  background-color: #4caf50; /* Green */
+  color: white;
+}

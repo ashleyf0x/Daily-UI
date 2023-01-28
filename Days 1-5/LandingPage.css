@@ -1,0 +1,61 @@
+#container-top {
+  margin: 10%;
+}
+
+/* Images */
+.bottles {
+  position: relative;
+  left: 60%;
+}
+#bottle1 {
+  width: 50%;
+  transform: translate(-50px) rotate(-25deg);
+  position: absolute;
+  z-index: 2;
+}
+#bottle2 {
+  width: 50%;
+  position: absolute;
+}
+#bottle3 {
+  width: 50%;
+  transform: translate(50px) rotate(25deg);
+  position: absolute;
+  z-index: -1;
+}
+.title {
+  text-align: right;
+}
+#Watermelon {
+  position: absolute;
+  left: 350px;
+}
+#Scented {
+  position: relative;
+}
+#Lotion {
+  position: absolute;
+  right: 400px;
+}
+/*sign up sheet*/
+.middleSection {
+  text-align: center;
+  position: relative;
+  padding-top: 80px;
+}
+h3 {
+  padding-bottom: 20px;
+}
+.signUp {
+  border: solid;
+  border-width: 5px;
+  text-align: center;
+  margin: 90px;
+  background-color: rgb(203, 105, 121);
+}
+.form {
+  padding: 0px;
+}
+.button {
+  padding: 2%;
+}
